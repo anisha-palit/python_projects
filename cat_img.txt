@@ -1,1 +1,1 @@
-[{"id":"4u3","url":"https://cdn2.thecatapi.com/images/4u3.jpg","width":728,"height":1296}][{"id":"d81","url":"https://cdn2.thecatapi.com/images/d81.png","width":604,"height":453}]
+[{"id":"83htMb1AJ","url":"https://cdn2.thecatapi.com/images/83htMb1AJ.jpg","width":3000,"height":2000}]
